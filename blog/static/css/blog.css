@@ -1,7 +1,13 @@
-h1 a, h2 a {
-    color: #C25100;
-    font-family: 'Lobster';
+h1 a {
+    color: #00FFFF;
+    font-family: 'Indie Flower';
     }
+
+h2 a {
+    color: #32CD32;
+    font-family: 'Kosugi Maru';
+    }
+
 
 body {
     padding-left: 15px;
